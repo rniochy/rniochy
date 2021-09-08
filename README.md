@@ -11,7 +11,7 @@
   <img align="center" alt="rniochy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="rniochy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rniochy-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="rniochy-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-plain.svg">
+  <img align="center" alt="rniochy-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Nextjs/Nextjs-plain.svg">
   <img align="center" alt="rniochy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rniochy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rniochy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
