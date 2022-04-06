@@ -1,7 +1,7 @@
 ### Hi there 👋
  <hr/>
 
-- 🔭 I’m currently working on my TCC project
+- 🔭<H1> I’m currently  CODING  </H1>
 - 🌱 I’m currently learning nodejs and more ..
 
 
