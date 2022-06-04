@@ -1,8 +1,6 @@
-### Hi there 👋
  <hr/>
 
-- 🔭<H3> I’m currently  CODING ... </H3>
-- 🌱 I’m currently learning nodejs and more ..
+<H3>IF YOU ARE MAKING MISTAKES IS PROFF THAT ARE TRYING</h3>
 
 
 <!-- 🤔 I’m looking for help with ...
