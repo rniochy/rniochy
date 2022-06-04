@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/>
   </br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/>
@@ -38,4 +39,4 @@
 </div>
 
 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="express" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/>
