@@ -1,7 +1,9 @@
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ... --!>
+- ⚡ Fun fact: ...
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/>// 
+--!>
 
 
  <h3 align="center">📫 How to reach me:</h3>
@@ -18,7 +20,7 @@
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/>
   </br>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+ <img style= "margin: 50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -37,6 +39,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rniochy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rniochy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="40" height="40"/>
