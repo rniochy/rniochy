@@ -27,10 +27,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/>
 </p>
-</br>
-<p align="center"> <h3> 💬 </h3>If you are <b>making</b> <b>MISTAKES</b> is <b>PROOF</b> that you are  <b>TRYING</b></p>
+<h3 align="center"> 💬 </h3>
+<p align="center">If you are <b>making</b> <b>MISTAKES</b> is <b>PROOF</b> that you are  <b>TRYING</b></p>
 </br>
  <div align="center">
   <a href="https://github.com/rniochy">
